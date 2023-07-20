@@ -1,7 +1,7 @@
 # Password-Generator 
-Hi, I'm here to share a project on JAVA regarding security.  
+Hi, I'm here to share a project on JAVA regarding security for the user purpose.  
 Using GUI include swing ,applet.
-Intellij IdeA platform to create the password generator
+As I use Intellij IdeA platform to create the password generator
   
   ![screen](https://github.com/Yuvi-ka26/Password-Generator/assets/134833341/1df9de50-d4c3-4e55-80df-02a838a29fa9)
   
